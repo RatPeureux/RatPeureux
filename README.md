@@ -1,6 +1,6 @@
-## Hi, I'm Léo Bléas
+## Hi, I'm Léo Bléas	
 
-Welcome on my GitHub personnal account	
+:octocat:	Welcome on my GitHub personnal account	
 
 ### I am :
 - still learning dev :computer:
