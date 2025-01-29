@@ -1,6 +1,4 @@
-## Hi, I'm Léo Bléas	
-
-Welcome on my GitHub personnal account !
+## Hi,
 
 ### I am :
 - still learning dev :computer:
